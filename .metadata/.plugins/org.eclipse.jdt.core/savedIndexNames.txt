@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+/home/dylan/git/CSCI2020u_Assignment1/.metadata/.plugins/org.eclipse.jdt.core
-1530930880.index
-724226639.index
-3307516771.index
-2988671989.index

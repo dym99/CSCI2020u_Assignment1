@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename method &apos;csci2020u.Assignment1.Question4.MainClass.setSampleTextFile(...)&apos; to &apos;sampleText&apos;&#x0A;- Original project: &apos;Question4&apos;&#x0A;- Original element: &apos;csci2020u.Assignment1.Question4.MainClass.setSampleTextFile(...)&apos;&#x0A;- Renamed element: &apos;csci2020u.Assignment1.Question4.MainClass.sampleText(...)&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;setSampleTextFile&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;csci2020u.Assignment1.Question4{MainClass.java[MainClass~setSampleTextFile~QString;" name="sampleText" references="true" stamp="1583450961287" version="1.0"/>
-</session>
